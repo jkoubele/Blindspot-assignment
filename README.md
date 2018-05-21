@@ -3,4 +3,4 @@ Interview assignment for Blindspot Solutions.
 
 Author: Jakub Koubele
 
-Implements a linear classifier for 2 simple datasets.
+Use a logistic regression for classification on 2 simple datasets.
